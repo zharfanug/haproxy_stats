@@ -1,0 +1,22 @@
+# Environment / Python
+.env
+.venv/
+venv/
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
